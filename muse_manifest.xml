@@ -1,0 +1,351 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/maxfallas/portafolio" resolutions="1x" timestamp="1509307138664">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="frutas.css" crc="3996387897" ref="frutas"/>
+    <file name="franquicias.css" crc="127651042" ref="franquicias"/>
+    <file name="bienes.css" crc="4060789648" ref="bienes"/>
+    <file name="estatica.css" crc="4013998461" ref="estatica"/>
+    <file name="blog.css" crc="500340973" ref="blog"/>
+    <file name="mercantil.css" crc="471978056" ref="mercantil"/>
+    <file name="servicios.css" crc="3828039153" ref="servicios"/>
+    <file name="panader_a.css" crc="3907005720" ref="panadería"/>
+    <file name="sucursales.css" crc="4190651615" ref="sucursales"/>
+    <file name="belleza.css" crc="3864095173" ref="belleza"/>
+    <file name="farmacias.css" crc="339092612" ref="farmacias"/>
+    <file name="oficinas.css" crc="4021378267" ref="oficinas"/>
+    <file name="hosteleria.css" crc="249344524" ref="hosteleria"/>
+    <file name="supermercados.css" crc="454138214" ref="supermercados"/>
+    <file name="agencia.css" crc="137765123" ref="agencia"/>
+    <file name="index.css" crc="4211372621" ref="index"/>
+    <file name="autos.css" crc="4128746400" ref="autos"/>
+    <file name="negocios-jur_dicos.css" crc="298839335" ref="negocios-jurídicos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+    <file name="museutils.js" crc="4216313831" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u1276.php" crc="352286159" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica:blog"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="419970946" ref="index"/>
+    <file name="bgmaxfallas.jpg" crc="4004764979" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u380-4.png" crc="501568643" ref="index"/>
+    <file name="u384-4.png" crc="9818493" ref="index"/>
+    <file name="u728-4.png" crc="3916794169" ref="index"/>
+    <file name="bgmax.jpg" crc="68845651" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u583-4.png" crc="4046414852" ref="index"/>
+    <file name="u702-4.png" crc="152205301" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u706.png" crc="439607116" ref="index"/>
+    <file name="u706-r.png" crc="439607116" ref="index"/>
+    <file name="u910-4.png" crc="3764980170" ref="index"/>
+    <file name="crvspanama2017.jpg" crc="3929659691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cafe.jpg" crc="3990547553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crvshonduras.jpg" crc="32218505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crvsusa.jpg" crc="3952787757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="djavi.jpg" crc="3953850534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eventos.jpg" crc="487259550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="football_match.jpg" crc="35963812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ligarealmadrid222.jpg" crc="98952205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="losmejores.jpg" crc="3758166075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.jpg" crc="297946301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="panama.jpg" crc="3990611850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parqueo.jpg" crc="535313231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pelea.jpg" crc="3760986955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trinidad.jpg" crc="3815624344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crvspanama2017163x230.jpg" crc="3972522078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cafe163x230.jpg" crc="224547886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crvshonduras163x230.jpg" crc="3839407352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crvsusa163x230.jpg" crc="92443226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="djavi163x230.jpg" crc="3802771732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eventos166x230.jpg" crc="345005412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="football_match179x230.jpg" crc="3997791980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ligarealmadrid222163x230.jpg" crc="4109329397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="losmejores166x230.jpg" crc="4026408337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu163x230.jpg" crc="4205638198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="panama163x230.jpg" crc="3976042656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parqueo163x230.jpg" crc="3967525005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pelea163x230.jpg" crc="203645342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trinidad163x230.jpg" crc="319636059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="atras-u2948-3.png" crc="3999346820" ref="index"/>
+    <file name="sig-u2949-3.png" crc="211724196" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="1.jpg" crc="41433318" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 640x360.jpg" crc="4164307430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 400x198-crop-u6759.jpg" crc="3926305523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 452x250.jpg" crc="4145645769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1600x1067.jpg" crc="279864744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 300x206.jpg" crc="21732821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 708x398.jpg" crc="3879478175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 655x392.jpg" crc="302026109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 800x420-crop-u6592.jpg" crc="130608827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 620x456.jpg" crc="4043205805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 980x550.jpg" crc="4092564675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 640x426.jpg" crc="133560874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 800x551.jpg" crc="3847614662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="509767820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5298.png" crc="3992334137" ref="index"/>
+    <file name="u5298-r.png" crc="3949339373" ref="index"/>
+    <file name="u5298-a.png" crc="3992334137" ref="index"/>
+    <file name="u5296.png" crc="140097372" ref="index"/>
+    <file name="u5296-r.png" crc="88946692" ref="index"/>
+    <file name="u5296-a.png" crc="140097372" ref="index"/>
+    <file name="img-20160102-wa0008.jpg" crc="3801524672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20151231-wa0019.jpg" crc="4113781921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20171001_140255.jpg" crc="4054482783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20160102-wa0012.jpg" crc="4204475053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m6.jpg" crc="496155891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m5.jpg" crc="469360505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m4.jpg" crc="4019420595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m3.jpg" crc="532839205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m2.jpg" crc="4037139468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m1.jpg" crc="304849963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m.jpg" crc="3793836515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20160102-wa0009.jpg" crc="3817852618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20160102-wa0008-crop-u9023.jpg" crc="4082533357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20151231-wa0019159x119.jpg" crc="27596115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20171001_140255-crop-u9050.jpg" crc="4014418919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20160102-wa0012-crop-u8915.jpg" crc="4288691311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m6-crop-u9354.jpg" crc="14558002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m5-crop-u9374.jpg" crc="4154220942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m4-crop-u9240.jpg" crc="90817527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m3-crop-u9260.jpg" crc="3783602885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m2-crop-u9280.jpg" crc="4280302298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m1-crop-u9300.jpg" crc="3947429814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m-crop-u9320.jpg" crc="43168978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20160102-wa0009-crop-u8996.jpg" crc="4006617169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logobocaditos.png" crc="362858344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9754-4.png" crc="502390585" ref="index"/>
+    <file name="logo.png" crc="3853851421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9779-4.png" crc="502390585" ref="index"/>
+    <file name="u2861.png" crc="3995549878" ref="index"/>
+    <file name="u2861-r.png" crc="3995549878" ref="index"/>
+    <file name="u2861-a.png" crc="3995549878" ref="index"/>
+    <file name="u2863.png" crc="3895334884" ref="index"/>
+    <file name="u2863-r.png" crc="3895334884" ref="index"/>
+    <file name="u2863-m.png" crc="3895334884" ref="index"/>
+    <file name="u2863-a.png" crc="3895334884" ref="index"/>
+    <file name="u2865.png" crc="4096158126" ref="index"/>
+    <file name="u2865-r.png" crc="4096158126" ref="index"/>
+    <file name="u2865-a.png" crc="4096158126" ref="index"/>
+    <file name="fotoperfil.jpg" crc="38173768" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="max01bg.jpg" crc="16713373" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1335-4.png" crc="3858809891" ref="index"/>
+    <file name="imagen pegada 1200x989.jpg" crc="28507590" seo="true" ref="servicios:mercantil:bienes:belleza:panadería:hosteleria:agencia:negocios-jurídicos:franquicias:oficinas:sucursales:farmacias:supermercados:autos:frutas:estatica">
+      <caption webpage="mercantil" alt=""/>
+      <caption webpage="agencia" alt=""/>
+      <caption webpage="belleza" alt=""/>
+      <caption webpage="sucursales" alt=""/>
+      <caption webpage="bienes" alt=""/>
+      <caption webpage="farmacias" alt=""/>
+      <caption webpage="frutas" alt=""/>
+      <caption webpage="estatica" alt=""/>
+      <caption webpage="autos" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="negocios-jurídicos" alt=""/>
+      <caption webpage="panadería" alt=""/>
+      <caption webpage="oficinas" alt=""/>
+      <caption webpage="supermercados" alt=""/>
+      <caption webpage="hosteleria" alt=""/>
+      <caption webpage="franquicias" alt=""/>
+    </file>
+    <file name="u8456-5.png" crc="4213108941" ref="servicios"/>
+    <file name="u8484-5.png" crc="4213108941" ref="mercantil"/>
+    <file name="u8554-5.png" crc="4213108941" ref="bienes"/>
+    <file name="u8010-5.png" crc="4213108941" ref="belleza"/>
+    <file name="u8414-5.png" crc="4213108941" ref="panadería"/>
+    <file name="u8428-5.png" crc="4213108941" ref="hosteleria"/>
+    <file name="u8442-5.png" crc="4213108941" ref="agencia"/>
+    <file name="u8498-5.png" crc="4213108941" ref="negocios-jurídicos"/>
+    <file name="u8540-5.png" crc="4213108941" ref="franquicias"/>
+    <file name="u8526-5.png" crc="4213108941" ref="oficinas"/>
+    <file name="u8512-5.png" crc="4213108941" ref="sucursales"/>
+    <file name="u8568-5.png" crc="4213108941" ref="farmacias"/>
+    <file name="u8582-5.png" crc="4213108941" ref="supermercados"/>
+    <file name="u8610-5.png" crc="4213108941" ref="autos"/>
+    <file name="u8596-5.png" crc="4213108941" ref="frutas"/>
+    <file name="u8470-5.png" crc="4213108941" ref="estatica"/>
+  </folder>
+  <file name="index.html" crc="194922977" seo="true" mt="1509307060849" redirect="true"/>
+  <file name="servicios.html" crc="4114775040" seo="true" mt="1509283529595" redirect="true"/>
+  <file name="mercantil.html" crc="77604100" seo="true" mt="1509283545230" redirect="true"/>
+  <file name="bienes.html" crc="70704983" seo="true" mt="1509283598811" redirect="true"/>
+  <file name="belleza.html" crc="89282990" seo="true" mt="1509282384299" redirect="true"/>
+  <file name="panadería.html" crc="3844858184" seo="true" mt="1509283509873" redirect="true"/>
+  <file name="hosteleria.html" crc="3842839262" seo="true" mt="1509283516902" redirect="true"/>
+  <file name="agencia.html" crc="4150566036" seo="true" mt="1509283522768" redirect="true"/>
+  <file name="negocios-jurídicos.html" crc="3770781366" seo="true" mt="1509283551239" redirect="true"/>
+  <file name="franquicias.html" crc="506832194" seo="true" mt="1509283571753" redirect="true"/>
+  <file name="oficinas.html" crc="143575724" seo="true" mt="1509283563486" redirect="true"/>
+  <file name="sucursales.html" crc="120333319" seo="true" mt="1509283556237" redirect="true"/>
+  <file name="farmacias.html" crc="386489492" seo="true" mt="1509283636517" redirect="true"/>
+  <file name="supermercados.html" crc="193551677" seo="true" mt="1509283642169" redirect="true"/>
+  <file name="autos.html" crc="517130785" seo="true" mt="1509283655344" redirect="true"/>
+  <file name="frutas.html" crc="409459001" seo="true" mt="1509283650497" redirect="true"/>
+  <file name="estatica.html" crc="3999938722" seo="true" mt="1509283535724" redirect="true"/>
+  <file name="blog.html" crc="4214788127" seo="true" mt="1509305890496" redirect="false"/>
+</manifest>
